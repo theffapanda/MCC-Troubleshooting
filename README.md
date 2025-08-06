@@ -6,7 +6,8 @@ Helpful Scripts / Troubleshooting information
 <img width="1462" height="907" alt="ApplicationFrameHost_FGeD8Humc2" src="https://github.com/user-attachments/assets/c313f548-f1dd-4d50-b353-8a337c92690d" />
 
 If you're met with this grey box when trying to log in, simply Alt+F4 and relaunch.
-Video upload shortly.
+
+[Guide](https://www.youtube.com/watch?v=dtt5Z1fq0DI)
 
 <h1>**EAC Errors on start**</h1>
 
