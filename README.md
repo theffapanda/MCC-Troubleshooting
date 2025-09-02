@@ -125,3 +125,8 @@ Fun fact: the above null pointer error is the cause of the fatal error crash whe
 
 If you are too lazy to google the associated error codes/details: 
 Go to Discord, add “theffapanda” as a friend, send screenshots of the errors you found and pray.
+
+<h1>Game Crashing during Campaign Cutscenes</h1>
+
+Lower FPS to 60 (or essentially half of your fps; if 240 hz monitor, choose 120, if 120 choose 60, etc).
+Not sure the cause, listing here as a community fix.
