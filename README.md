@@ -1,7 +1,7 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
-<h1>**Black Box / "Too many requests" error 2025**</h1>
+<h1>Black Box / "Too many requests" error 2025</h1>
 
 <img width="1462" height="907" alt="ApplicationFrameHost_FGeD8Humc2" src="https://github.com/user-attachments/assets/c313f548-f1dd-4d50-b353-8a337c92690d" />
 
@@ -9,7 +9,7 @@ If you're met with this grey box when trying to log in, simply Alt+F4 and relaun
 
 [Guide](https://www.youtube.com/watch?v=dtt5Z1fq0DI)
 
-<h1>**EAC Errors on start**</h1>
+<h1>EAC Errors on start</h1>
 
 Typically caused by a software error in EAC.
 Resolve by Repairing (or uninstall/reinstall) of EAC.
@@ -25,7 +25,9 @@ Relaunch MCC.
 ![brave_kpmbpXbZSS](https://github.com/user-attachments/assets/c6f231a8-2b5b-4844-a427-f3bcac07343c)
 
 
-<h1>**Connecting To Server (and other login issues)**</h1>
+<h1>Connecting To Server (and other login issues)</h1>
+
+2025 Update: This MAY be caused by a timezone mismatch; be 100% sure your timezone is set properly on your PC before proceeding.
 
 Typical cause of this issue is an Xbox Session loop - basically the server cant confirm you’re logged in or not. A simple log in/out can resolve this in most cases.
 If a relog doesn’t resolve the issue for you, you can try clearing all of your XBL Session keys using the following steps.
@@ -64,11 +66,11 @@ I dont know, I don’t make the rules I can only attempt to interpret them.
 
 I've also included a batch script here that you can use.
 
-<h1>**Not Spawning (Stuck on Scoreboard at start)**</h1>
+<h1>Not Spawning (Stuck on Scoreboard at start)</h1>
 This happens mainly in H2A games.
 Leave and rejoin. Im fully aware rejoin isnt fully functioning anymore, oof.
 
-<h1>**Steam Console**</h1>
+<h1>Steam Console</h1>
 We can use the Steam Console to help get some basic troubleshooting information if MCC is failing to launch.
 
 Press the Windows Key + R
@@ -82,7 +84,7 @@ In the example below I’ve launched MCC after opening the console.
 
 
 
-<h1>**Restarting Search**</h1>
+<h1>Restarting Search</h1>
 
 If you find your lobby constantly cycling between “Connecting Session” and “Restarting Search”, there doesn’t appear to be anything client side we can do to resolve. 
 
@@ -90,7 +92,7 @@ If you find your lobby constantly cycling between “Connecting Session” and �
 <img width="991" height="678" alt="image" src="https://github.com/user-attachments/assets/cc948e75-5790-4a55-be06-c1d7dbe74000" />
 
 
-<h1>**Fatal Error**</h1>
+<h1>Fatal Error</h1>
 Probably the trickiest error to resolve. I’ve seen some users where they had a faulty USB port on their PC which was causing the entire game to crash. 
 
 Easiest way to track these down is through the Problem Reports section in Windows.
