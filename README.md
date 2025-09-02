@@ -91,7 +91,7 @@ In the example below I’ve launched MCC after opening the console.
 <h1>Restarting Search</h1>
 
 If you find your lobby constantly cycling between “Connecting Session” and “Restarting Search”, there doesn’t appear to be anything client side we can do to resolve. 
-
+This broke in ~July 2023. 343 has claimed this issue is not happening on their end and to contact your ISP. Rightttttttt
 
 <img width="991" height="678" alt="image" src="https://github.com/user-attachments/assets/cc948e75-5790-4a55-be06-c1d7dbe74000" />
 
