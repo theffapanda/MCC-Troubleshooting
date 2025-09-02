@@ -1,6 +1,10 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
+<h1>Can't find games when searching Matchmaking (Microsoft Store Version)</h1>
+This version of the game is still broken as of September 2nd 2025. It broke on February 28th 2025.
+No fix is in sight. Buy the game on Steam in the meantime.
+
 <h1>Black Box / "Too many requests" error 2025</h1>
 
 <img width="1462" height="907" alt="ApplicationFrameHost_FGeD8Humc2" src="https://github.com/user-attachments/assets/c313f548-f1dd-4d50-b353-8a337c92690d" />
