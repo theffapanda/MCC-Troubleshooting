@@ -32,7 +32,9 @@ Relaunch MCC.
 <h1>Connecting To Server (and other login issues)</h1>
 
 2025 Update: This MAY be caused by a timezone mismatch; be 100% sure your timezone is set properly on your PC before proceeding.
-Also ensure if you usually play on or off of a VPN that you turn your VPN on/off as appropriate. It can prevent you from logging in properly and breaks this process. 
+Also ensure if you usually play on or off of a VPN that you turn your VPN on/off as appropriate. It can prevent you from logging in properly and breaks this process.
+
+**Download and run the .bat file in this repo to clear your cache / credential manager**. Step by step listed out below. 
 
 Typical cause of this issue is an Xbox Session loop - basically the server cant confirm you’re logged in or not. A simple log in/out can resolve this in most cases.
 If a relog doesn’t resolve the issue for you, you can try clearing all of your XBL Session keys using the following steps.
