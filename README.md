@@ -29,7 +29,7 @@ Relaunch MCC.
 ![brave_kpmbpXbZSS](https://github.com/user-attachments/assets/c6f231a8-2b5b-4844-a427-f3bcac07343c)
 
 
-<h1>Connecting To Server (and other login issues)</h1>
+<h1>Contacting Server (and other login issues)</h1>
 
 2025 Update: This MAY be caused by a timezone mismatch; be 100% sure your timezone is set properly on your PC before proceeding.
 Also ensure if you usually play on or off of a VPN that you turn your VPN on/off as appropriate. It can prevent you from logging in properly and breaks this process.
