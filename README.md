@@ -2,8 +2,9 @@
 Helpful Scripts / Troubleshooting information
 
 <h1>Can't find games when searching Matchmaking (Microsoft Store Version)</h1>
-This version of the game is still broken as of September 2nd 2025. It broke on February 28th 2025.
-No fix is in sight. Buy the game on Steam in the meantime.
+<del>This version of the game is still broken as of September 2nd 2025. It broke on February 28th 2025.
+No fix is in sight. Buy the game on Steam in the meantime.</del>
+This was fixed in a September patch.
 
 <h1>Black Box / "Too many requests" error 2025</h1>
 
