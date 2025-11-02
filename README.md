@@ -16,6 +16,7 @@ Clear your Credential Manager of any XbL related entries, and clear your Steam W
 It's open source, read what its doing. Dont blindly trust things you find online. If you have questions on the syntax etc ask me.
 
 5. Relaunch MCC
+   
 This should get you past this server issue until Halo Studios can work out the issues on their end. Take care!
 
 <h1>Can't find games when searching Matchmaking (Microsoft Store Version)</h1>
