@@ -1,6 +1,22 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
+<h1>Updated November 1st 2025 - Login Issues</h1>
+
+If you are getting the gray box popup when trying to login to MCC right now follow these steps.
+
+Try Logging in until you get to that popup screen.
+On that popup, hit Alt+F4 to force-close MCC.
+Relaunch MCC.
+This should work for most. If it doesnt, proceed further.
+
+Close MCC.
+Clear your Credential Manager of any XbL related entries, and clear your Steam Webcache. You can do this manually. I've also created a Batch Script you can download and run here.
+It's open source, read what its doing. Dont blindly trust things you find online. If you have questions on the syntax etc ask me.
+
+Relaunch MCC
+This should get you past this server issue until Halo Studios can work out the issues on their end. Take care!
+
 <h1>Can't find games when searching Matchmaking (Microsoft Store Version)</h1>
 <del>This version of the game is still broken as of September 2nd 2025. It broke on February 28th 2025.
 No fix is in sight. Buy the game on Steam in the meantime.</del>
