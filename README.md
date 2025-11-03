@@ -14,11 +14,13 @@ This should work for most. If it doesnt, proceed further.
 
 4. Close MCC.
 
-Clear your Credential Manager of any XbL related entries, and clear your Steam Webcache. You can do this manually. I've also created a Batch Script you can download and run here.
+5. Clear your Credential Manager of any XbL related entries, and clear your Steam Webcache.
+
+You can do this manually. I've also created a Batch Script you can download and run here.
 Its called ClearCredentials.bat. Download it to your desktop, run it.
 It's open source, read what its doing. Dont blindly trust things you find online. If you have questions on the syntax etc ask me.
 
-5. Relaunch MCC
+6. Relaunch MCC
    
 This should get you past this server issue until Halo Studios can work out the issues on their end. Take care!
 
