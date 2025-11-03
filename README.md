@@ -8,9 +8,11 @@ If you are getting the gray box popup when trying to login to MCC right now foll
 1. Try Logging in until you get to that popup screen.
 2. On that popup, hit Alt+F4 to force-close MCC.
 3. Relaunch MCC.
+
+
 This should work for most. If it doesnt, proceed further.
 
-5. Close MCC.
+4.. Close MCC.
 
 Clear your Credential Manager of any XbL related entries, and clear your Steam Webcache. You can do this manually. I've also created a Batch Script you can download and run here.
 Its called ClearCredentials.bat. Download it to your desktop, run it.
