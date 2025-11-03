@@ -1,7 +1,7 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
-<h1>Updated November 1st 2025 - Login Issues</h1>
+<h1>Updated November 3rd 2025 - Login Issues</h1>
 
 If you are getting the gray box popup when trying to login to MCC right now follow these steps.
 
@@ -23,6 +23,11 @@ It's open source, read what its doing. Dont blindly trust things you find online
 6. Relaunch MCC
    
 This should get you past this server issue until Halo Studios can work out the issues on their end. Take care!
+
+**Added November 3rd 2025**
+
+If the above methods don't work, on the Gray Box hit Escape and then click "Cancel" in the offered choices (Don't click Retry, it will begin the loop again). 
+This may take you directly to the main menu and fix the issue.
 
 <h1>Can't find games when searching Matchmaking (Microsoft Store Version)</h1>
 <del>This version of the game is still broken as of September 2nd 2025. It broke on February 28th 2025.
