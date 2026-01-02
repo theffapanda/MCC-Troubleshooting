@@ -132,7 +132,7 @@ This broke in ~July 2023. 343 has claimed this issue is not happening on their e
 Probably the trickiest error to resolve. I’ve seen some users where they had a faulty USB port on their PC which was causing the entire game to crash. 
 
 Easiest way to track these down is through the Problem Reports section in Windows.
-Press the Windows Key and type “Problem Reports.
+Press the Windows Key and type “Problem Reports".
 You should have a row for Halo: The Master Chief Collection which you can double click.
 If you don’t understand the Exception Codes - google them.
 
