@@ -118,7 +118,15 @@ In the example below I’ve launched MCC after opening the console.
 
 <img width="1117" height="389" alt="image" src="https://github.com/user-attachments/assets/94dfdc55-262f-470d-997d-a4ab504e139b" />
 
+<h1>Stutters / "Hitching"</h1>
 
+There are a million reasons this can happen - BUT, the community has found a handful of fixes for these issues some writing them below. 
+Consider these to be sanity checks / things you can check if you've run out of ideas.
+
+1) Overclocked controllers - if you are running a controller at 8Khz, reduce to 1Khz and look for improvement.
+2) Easy Anti Cheat - run MCC w/ EAC disabled. If this improves performance, re-run the EAC installer (inside of MCC's files)
+3) Mismatched Framerates - if you have multiple monitors with different framerates, its possible (especially w/ GSync) that the mismatch causes problems. Sync the two framerates (usually by lowering the higher, sorry!)
+4) MicrosoftGameInput - Remove this from your installed App/Programs. Known to cause issues with framerates in MCC, particularly when swapping between MnK/Controller.
 
 <h1>Restarting Search</h1>
 
