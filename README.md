@@ -1,7 +1,17 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
-<h1>Updated November 3rd 2025 - Login Issues</h1>
+<h1>Updated January 2026</h1>
+
+If youre getting the bug w/ MCC where you close the game but it gets stuck on "Stopping..." in Steam, forcing you to restart your computer can you try the steps below. 
+
+1) Open the task manager
+2) End the Easy Anti Cheat Service (may have a different name)
+3) End the game you're playing
+
+This worked once for me, need more testing.
+
+<h1>Added November 3rd 2025 - Login Issues</h1>
 
 If you are getting the gray box popup when trying to login to MCC right now follow these steps.
 
