@@ -11,6 +11,8 @@ If youre getting the bug w/ MCC where you close the game but it gets stuck on "S
 
 This worked once for me, need more testing.
 
+Edit: Run a command prompt as Admin. Put in the command "taskkill /F /IM steam.exe /T" without the quotes. Test.
+
 <h1>Added November 3rd 2025 - Login Issues</h1>
 
 If you are getting the gray box popup when trying to login to MCC right now follow these steps.
