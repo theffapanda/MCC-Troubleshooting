@@ -11,7 +11,10 @@ If youre getting the bug w/ MCC where you close the game but it gets stuck on "S
 
 This worked once for me, need more testing.
 
-Edit: Run a command prompt as Admin. Put in the command "taskkill /F /IM steam.exe /T" without the quotes. Test.
+Edit: 
+
+Run a command prompt as Admin. Put in the command "taskkill /F /IM steam.exe /T" without the quotes. Test.
+Note: I've seen some success with ending the Epic Games Launcher / Epic Online Services as well. Some weird dependency here, idk yet. Will write an updated script to nuke everything MCC / EOS and post it after testing.
 
 <h1>Added November 3rd 2025 - Login Issues</h1>
 
