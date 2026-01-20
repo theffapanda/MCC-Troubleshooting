@@ -1,7 +1,7 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
-<h1>Updated January 2026</h1>
+<h1>Updated January 2026 - Can't Close MCC</h1>
 
 If youre getting the bug w/ MCC where you close the game but it gets stuck on "Stopping..." in Steam, forcing you to restart your computer can you try the steps below. 
 
