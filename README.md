@@ -16,6 +16,10 @@ Edit:
 Run a command prompt as Admin. Put in the command "taskkill /F /IM steam.exe /T" without the quotes. Test.
 Note: I've seen some success with ending the Epic Games Launcher / Epic Online Services as well. Some weird dependency here, idk yet. Will write an updated script to nuke everything MCC / EOS and post it after testing.
 
+Final Edit: After deleting the GFSDK_Aftermath_Lib.x64.dll from C:\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64 and having Steam Redownload this file by Verifying File Integrity, the issue has never returned.
+
+Its possible there was some other root cause but if you're still experiencing this it may be worth trying.
+
 <h1>Added November 3rd 2025 - Login Issues</h1>
 
 If you are getting the gray box popup when trying to login to MCC right now follow these steps.
