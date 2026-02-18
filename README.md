@@ -1,6 +1,15 @@
 # MCC-Troubleshooting
 Helpful Scripts / Troubleshooting information
 
+<h1>Updated February 2026 - Gray Box at Login</h1>
+
+If you are seeing the Gray Box below and you are in the UK, you need to first visit: http://aka.ms/XboxUKAgeVerification
+
+Complete the age verification and then log back in, it should clear. Its supposed to give an Age Verification popup but its not displaying in MCC correctly, hence the big gray box with nothing in it.
+
+<img width="859" height="897" alt="Discord_ttjatKMVFo" src="https://github.com/user-attachments/assets/3e7b790f-db43-4b21-bdff-04dfd1e1d461" />
+
+
 <h1>Updated January 2026 - Can't Close MCC</h1>
 
 If youre getting the bug w/ MCC where you close the game but it gets stuck on "Stopping..." in Steam, forcing you to restart your computer can you try the steps below. 
