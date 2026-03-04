@@ -94,11 +94,19 @@ Also ensure if you usually play on or off of a VPN that you turn your VPN on/off
 **Download and run the .bat file in this repo to clear your cache / credential manager**. Step by step listed out below. 
 
 Typical cause of this issue is an Xbox Session loop - basically the server cant confirm you’re logged in or not. A simple log in/out can resolve this in most cases.
-If a relog doesn’t resolve the issue for you, you can try clearing all of your XBL Session keys using the provided ClearCredentials.bat file. 
+
+If a relog doesn’t resolve the issue for you, you can try clearing all of your XBL Session keys using the provided ClearCredentials.bat file.
+
 Relaunch MCC and log back in
-You can also manually delete these entries in the Credential Manager. The above batch file saves you a lot of manual effort, but here’s how to do it manually.
-Open Credential Manager, Navigate to Windows Credentials, and find and delete every key containing “XBL”. Delete them by clicking the dropdown error and clicking “Remove”.
+
+You can also manually delete these entries in the Credential Manager. 
+The above batch file saves you a lot of manual effort, but here’s how to do it manually.
+
+Open Credential Manager, Navigate to Windows Credentials, and find and delete every key containing “XBL”. 
+Delete them by clicking the dropdown error and clicking “Remove”.
 343 has acknowledged this issue and in addition to the steps above suggest clearing your web cache.
+My provided script does this for you.
+
 
 <img width="1060" height="941" alt="brave_H6gHs3zkGy" src="https://github.com/user-attachments/assets/63a70d1d-c45a-4f0f-9149-3838dc4a086d" />
 
