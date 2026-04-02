@@ -72,6 +72,14 @@ If you're met with this grey box when trying to log in, simply Alt+F4 and relaun
 
 <h1>EAC Errors on start</h1>
 
+**April 2026 Update: Note - a year or so ago MCC moved to using Epic Online Services. You will see a second folder installed here:
+C:\Program Files (x86)\Steam\steamapps\common\Halo The Master Chief Collection\easyanticheat
+with a file called easyanticheat_eos_setup.
+
+Neither EAC setup will react when you interact w/ them. The window will come up and instantly close.
+THIS MAY STILL FIX YOUR ISSUE. I've seen success in 2026. Just updating for historical reasons.
+**
+
 Typically caused by a software error in EAC.
 Resolve by Repairing (or uninstall/reinstall) of EAC.
 
